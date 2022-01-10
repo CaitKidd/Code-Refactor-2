@@ -16,9 +16,11 @@
 </p>
    
 ## Demo
-     
-
+ 
 https://caitkidd.github.io/Code-Refactor-2/
+
+
+![Screen Shot 2022-01-10 at 1 35 33 PM](https://user-images.githubusercontent.com/88734760/148835804-6302caf0-178e-4251-a952-e2f2db058282.png)
 
 <br>
 <br>
